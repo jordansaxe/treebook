@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'anjlab-bootstrap-rails', '~> 3.0.0.3', :require => 'bootstrap-rails'
+gem 'devise', '~> 3.1.1'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
